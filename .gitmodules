@@ -1,0 +1,9 @@
+[submodule "fontier.service"]
+	path = fontier.service
+	url = https://github.com/jwraynor/fontier.service.git
+[submodule "fontier.agent"]
+	path = fontier.agent
+	url = https://github.com/jwraynor/fontier.agent.git
+[submodule "fontier.front"]
+	path = fontier.front
+	url = https://github.com/jwraynor/fontier.front.git
